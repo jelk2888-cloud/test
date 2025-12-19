@@ -1,5 +1,5 @@
 {
-  "name": "copy-of-starry-dream-laboratory",
+  "name": "starry-dream-laboratory",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,8 +9,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "react-dom": "^19.2.3",
     "react": "^19.2.3",
+    "react-dom": "^19.2.3",
     "d3": "^7.9.0"
   },
   "devDependencies": {
